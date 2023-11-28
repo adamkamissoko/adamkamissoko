@@ -10,11 +10,11 @@
 <p>Plateforme d'apprentissage efficace pour les étudiants qui peuvent partager leurs ressources d'études</p>
 <br>
 <a href="https://github.com/amylynnn/island_dream">Island-dream</a>
-<p>A Plateforme de locations d'îles</p>
+<p>Plateforme de locations d'îles</p>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam-kamissoko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-kamissoko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adam-kamissoko" target="blank"><i class="fa-brands fa-linkedin"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
