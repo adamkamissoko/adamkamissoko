@@ -5,7 +5,7 @@
 
 - 📫 Comment me joindre **adamkamissoko@gmail.com**
 
-<h3> My bootcamp projects :</h3>
+<h3> Mes projets de bootcamp :</h3>
 <a href="https://edusparks.online">Edusparks</a>
 <p>Plateforme d'apprentissage efficace pour les étudiants qui peuvent partager leurs ressources d'études</p>
 <br>
