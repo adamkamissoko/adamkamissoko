@@ -14,7 +14,7 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam-kamissoko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="adam-kamissoko" height="20" width="20" /> adam-kamissoko</a>
+<a href="https://linkedin.com/in/adam-kamissoko" target="blank" style="text-decoration: none;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="adam-kamissoko" height="20" width="20" /> adam-kamissoko</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
