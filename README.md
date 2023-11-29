@@ -7,10 +7,10 @@
 
 <h3> Mes projets de bootcamp :</h3>
 <a href="https://edusparks.online">Edusparks</a>
-<p>Plateforme d'apprentissage efficace pour les étudiants qui peuvent partager leurs ressources d'études</p>
+<p>Plateforme d'apprentissage pour les élèves de niveau collège qui peuvent s’exercer à travers des quizz et des vidéos de lectures.</p>
 <br>
 <a href="https://github.com/amylynnn/island_dream">Island-dream</a>
-<p>Plateforme de locations d'îles</p>
+<p>Clone d'Airbnb - Plateforme de locations d'îles</p>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
