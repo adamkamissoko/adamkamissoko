@@ -8,7 +8,7 @@
 -  👨‍💻 All of my projects are available <a href="https://four-hunter-140.notion.site/Adam-KAMISSOKO-45edd9e0fa964de786e936257299d409">here</a>
 
 <h3> Mes projets de bootcamp :</h3>
-<a href="https://edusparks.online">Edusparks</a>
+<a href="https://www.edusparks.online">Edusparks</a>
 <p>Plateforme d'apprentissage pour les élèves de niveau collège qui peuvent s’exercer à travers des quizz et des vidéos de lectures.</p>
 <br>
 <a href="https://github.com/amylynnn/island_dream">Island-dream</a>
